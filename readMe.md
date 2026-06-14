@@ -6,5 +6,11 @@ A comprehensive Career OS designed to transform professional growth from a serie
 You can view the project pitch and UI design walkthrough here:
 [Link to Canva Presentation Placeholder](https://www.canva.com/)
 
+## Presentation Slides
+Creators :
+1. Daphne Douglas ( daphnedouglas0423@gmail.com )
+2. Audrylyia Wong ( audrylyiawg@gmail.com )
+
 ---
 *Disclaimer: This project was developed for Talentbank purposes.*
+
