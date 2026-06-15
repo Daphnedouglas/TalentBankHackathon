@@ -4,11 +4,14 @@ A comprehensive Career OS designed to transform professional growth from a serie
 
 ## Presentation Slides
 You can view the project pitch and UI design walkthrough here:
-[Link to Canva Presentation Placeholder](https://www.canva.com/)
+https://canva.link/7qeggofmnme70h7
 
-## Presentation Slides
-Creators :
-1. Daphne Douglas ( daphnedouglas0423@gmail.com )
+Project clickable website:
+https://hirebank.netlify.app/
+
+
+## Creators
+1. Daphne Douglas ( daphnedouglas04@gmail.com )
 2. Audrylyia Wong ( audrylyiawg@gmail.com )
 
 ---
